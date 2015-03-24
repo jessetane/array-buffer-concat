@@ -1,0 +1,15 @@
+{
+  "name": "array-buffer-concat",
+  "version": "1.0.0",
+  "description": "Concatenate ArrayBuffers",
+  "keywords": "Concatenate ArrayBuffer",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node test",
+    "example": "browserify example > example/build.js && node example/server.js"
+  },
+  "repository": "https://github.com/jessetane/array-buffer-concat",
+  "author": "Jesse Tane <jesse.tane@gmail.com>"
+}
