@@ -1,6 +1,6 @@
 {
   "name": "array-buffer-concat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concatenate ArrayBuffers",
   "keywords": "Concatenate ArrayBuffer",
   "devDependencies": {
